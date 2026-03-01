@@ -2,7 +2,7 @@
 
 Se proponen las siguientes ideas de aplicación para el proyecto:
 
-## [Idea 1: PassGo (Sleccionada)](Documentos/Ideas.md)
+## [Idea 1: PassGo (Seleccionada)](Documentos/Ideas.md)
 
 PassGo es una aplicación orientada a la gestión segura de contraseñas que permite a los usuarios generar, almacenar y administrar credenciales únicas para diferentes sitios web y aplicaciones. Esta solución surge como respuesta a la alta vulnerabilidad existente en múltiples plataformas digitales, donde es común que los usuarios reutilicen la misma contraseña, aumentando el riesgo de accesos no autorizados y filtraciones de información. Mediante el uso de PassGo, cada usuario puede disponer de contraseñas robustas y diferenciadas para cada servicio, fortaleciendo la protección de su identidad digital y reduciendo significativamente los riesgos asociados a la seguridad informática.
 
