@@ -4,7 +4,7 @@
 El sistema corresponde a una aplicación móvil para la gestión segura de contraseñas.
 
 Diseño realizado en Figma:
-https://www.figma.com/tu-link
+https://www.figma.com/design/5o0LloKLvxA9a0R5p2F2FW/Gestor-de-contrase%C3%B1as--Community-?node-id=1-341&t=zKDe1go84K94e2tu-0
 
 ---
 
@@ -98,12 +98,6 @@ Para el diseño de la aplicación se optó por un estilo minimalista, caracteriz
 Este enfoque permite mejorar la experiencia del usuario, haciendo que la interfaz sea intuitiva, moderna y fácil de utilizar.
 
 ## Mockups de la aplicación.
-
----
-
-Link de acceso a Figma: 
-
-https://www.figma.com/design/5o0LloKLvxA9a0R5p2F2FW/Gestor-de-contrase%C3%B1as--Community-?node-id=1-341&t=zKDe1go84K94e2tu-0
 
 ---
 
