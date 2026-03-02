@@ -101,7 +101,9 @@ Este enfoque permite mejorar la experiencia del usuario, haciendo que la interfa
 
 ---
 
-Link de acceso a Figma: https://www.figma.com/design/5o0LloKLvxA9a0R5p2F2FW/Gestor-de-contrase%C3%B1as--Community-?node-id=1-341&t=zKDe1go84K94e2tu-0
+Link de acceso a Figma: 
+
+https://www.figma.com/design/5o0LloKLvxA9a0R5p2F2FW/Gestor-de-contrase%C3%B1as--Community-?node-id=1-341&t=zKDe1go84K94e2tu-0
 
 ---
 
