@@ -25,11 +25,14 @@ https://www.figma.com/tu-link
 ---
 
 ## 4. Flujo de Navegación
-Login → Principal → Gestión de contraseñas → Configuración
-|_ Registro
-|_ Restablecimiento de la contraseña
-   |_ Verificación de correo
-     |_ Código de verificación
+    Login --> Registro
+    Login --> Restablecimiento
+    Restablecimiento --> VerificacionCorreo
+    VerificacionCorreo --> Codigo
+    Login --> Principal
+    Principal --> Gestion
+    Principal --> Configuracion
+    Principal --> Perfil
 ---
 
 ## 5. Componentes UI
