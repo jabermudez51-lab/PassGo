@@ -24,29 +24,18 @@ https://www.figma.com/tu-link
 
 ---
 
-## 4. Pantallas del Sistema
-
-### 4.1 Login
-Descripción:
-Pantalla inicial donde el usuario ingresa sus credenciales.
-
-Imagen:
-![Login](./images/login.png)
-
+## 4. Flujo de Navegación
+Login → Principal → Gestión de contraseñas → Configuración
+|_ Registro
+|_ Restablecimiento de la contraseña
+   |_ Verificación de correo
+     |_ Código de verificación
 ---
 
-### 4.2 Registro
-Descripción de la pantalla...
-
----
-
-## 5. Flujo de Navegación
-Login → Dashboard → Gestión de contraseñas → Configuración
-
----
-
-## 6. Componentes UI
-- Botón primario
+## 5. Componentes UI
+- Botones de acción
+- Íconos
+- Formularios
 - Campo de texto
 - Tarjeta de contraseña
 
